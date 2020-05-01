@@ -14,7 +14,7 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap">[Top]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
 <a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
 [Base Weapons]
 <a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo">[Unique Armor]</a>
@@ -6441,7 +6441,7 @@ Maybe intentional, they are flagged as 'spawnable' though.
 <a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
 <a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
 <br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap">[Top]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
 <a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
 [Base Weapons]
 <a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo">[Unique Armor]</a>
