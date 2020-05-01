@@ -14,14 +14,14 @@ by tsuru (tsurumurasaki)</font>
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
 <a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3set">[Set Items]</a><a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
 [Runewords]
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3cube">[Cube Recipes]</a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 <br>
 <font color="#FFFFFF">I U Shi Ka N Ku Yo </font>
 <font color="#B22222">Ki Ri Mi Ya A Tsu Chi </font>
@@ -4637,14 +4637,14 @@ Poison Resist +35%<br>
 <font color="#9400D3">Su He Nu Wo</font>
 <br>
 <a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3set">[Set Items]</a><a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
 [Runewords]
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3cube">[Cube Recipes]</a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 </font></td></tr>
 </tbody></table>
 </center>
