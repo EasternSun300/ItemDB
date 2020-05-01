@@ -15,35 +15,35 @@ by tsuru (tsurumurasaki)</font>
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
 <a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
 [Base Weapons]
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uweap">[Unique Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3set">[Set Items]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3cube">[Cube Recipes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 <br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -516,26 +516,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -918,26 +918,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -1185,26 +1185,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -1408,26 +1408,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -1750,26 +1750,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2182,26 +2182,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2494,26 +2494,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2716,26 +2716,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2983,26 +2983,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -3250,26 +3250,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4029,26 +4029,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4311,26 +4311,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4533,26 +4533,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4920,26 +4920,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -5367,26 +5367,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -5514,26 +5514,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -5646,26 +5646,26 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -5931,26 +5931,26 @@ Maybe intentional, they are flagged as 'spawnable' though.
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -6063,26 +6063,26 @@ Maybe intentional, they are flagged as 'spawnable' though.
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -6420,36 +6420,36 @@ Maybe intentional, they are flagged as 'spawnable' though.
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000" colspan="13" width="852">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#axe">[Axes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bow">[Bows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#xbo">[Xbows]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dag">[Daggers]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#jav">[Javelins]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#mac">[Maces]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pol">[Poles]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sce">[Scepters]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#spe">[Spears]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sta">[Staves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#swo">[Swords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#thr">[Throw]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#wan">[Wands]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ama">[Ama]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#ass">[Asn]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#pal">[Pal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap#sor">[Sor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#axe">[Axes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bow">[Bows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#xbo">[Xbows]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dag">[Daggers]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#jav">[Javelins]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#mac">[Maces]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pol">[Poles]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sce">[Scepters]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#spe">[Spears]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sta">[Staves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">[Swords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#thr">[Throw]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#wan">[Wands]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ama">[Ama]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#ass">[Asn]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#sor">[Sor]</a>
 <br>
 <a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
 [Base Weapons]
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uweap">[Unique Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3set">[Set Items]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3cube">[Cube Recipes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 </font></td></tr>
 </tbody></table>
 </a></center><a name="sor">
