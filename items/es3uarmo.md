@@ -15,32 +15,32 @@ by tsuru (tsurumurasaki)</font>
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
 <a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap">[Base Weapons]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
 [Unique Armor]
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3cube">[Cube Recipes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 <br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -278,23 +278,23 @@ Lvl 2 Protection From Evil Aura When Equipped<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -546,23 +546,23 @@ Damage Reduced By 6<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -661,23 +661,23 @@ Replenish Life -15<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -827,23 +827,23 @@ All Resistances +0-15<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -856,7 +856,7 @@ All Resistances +0-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Cap of the Raven<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Cap</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Cap</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">4</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">3</font></td>
@@ -873,7 +873,7 @@ All Resistances +0-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Warriors Coif<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Skull Cap</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Skull Cap</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">15</font></td>
@@ -889,7 +889,7 @@ Attacker Takes Damage of 18-28<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Obsidian Helm<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">14</font></td>
@@ -903,7 +903,7 @@ All Resistances +20-40<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>The Wanderer's Guard<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Full Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Full Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">23</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">17</font></td>
@@ -920,7 +920,7 @@ Magic Absorb 0-10%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Raging Wolf<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Great Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Great Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">34</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">25</font></td>
@@ -937,7 +937,7 @@ Lvl 7 Summon Dire Wolf (3 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Fearful Bane<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Mask</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Mask</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">27</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
@@ -953,7 +953,7 @@ All Resistances +15-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Leoric's Rule<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -968,7 +968,7 @@ All Resistances +10-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Albrieght's Bonemask<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Bone Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Bone Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">28</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">21</font></td>
@@ -982,7 +982,7 @@ All Resistances +10-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Crown of the Mountain King<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Dwarven Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Dwarven Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">36</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">31</font></td>
@@ -1000,7 +1000,7 @@ Indestructible<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Sparhawk's Spirit<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Spirit Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Spirit Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">34</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">21</font></td>
@@ -1015,7 +1015,7 @@ Lvl 1 Redemption (1 Charge)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Cap of the Blessed<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">War Hat</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">War Hat</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">28</font></td>
@@ -1030,7 +1030,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Knowledge<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Sallet</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Sallet</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">31</font></td>
@@ -1044,7 +1044,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Eagle Helm<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Casque</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Casque</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">43</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
@@ -1060,7 +1060,7 @@ Lvl 8 Raven (3 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Veil of Steel<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Basinet</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Basinet</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">38</font></td>
@@ -1074,7 +1074,7 @@ All Resistances +25-50<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Gotterdammerung<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Winged Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Winged Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">52</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">44</font></td>
@@ -1090,7 +1090,7 @@ Damage Reduced By 2-6<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Burial Mask of Marduuk<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Death Mask</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Death Mask</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">41</font></td>
@@ -1109,7 +1109,7 @@ Cold Duration 8-24 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Royal Circlet<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Grand Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Grand Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">57</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
@@ -1127,7 +1127,7 @@ Requirements -(20-40)%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Borgov's Skull<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Grim Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Grim Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">41</font></td>
@@ -1142,7 +1142,7 @@ Requirements -(20-40)%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Dwarven Spirits<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Dwarven Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Dwarven Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">48</font></td>
@@ -1157,7 +1157,7 @@ Increase Max Life 8-24%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Spirit of Life<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Ethereal Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Ethereal Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">64</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">58</font></td>
@@ -1171,7 +1171,7 @@ Replenish Life +15-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Servant's Leathers<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Hood</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Hood</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">63</font></td>
@@ -1186,7 +1186,7 @@ All Resistances +20-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Beowulf's Mask<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Fedora</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Fedora</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">64</font></td>
@@ -1203,7 +1203,7 @@ Adds 50-120 Fire Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Golem Shell<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Guardian Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Guardian Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">72</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">65</font></td>
@@ -1216,7 +1216,7 @@ All Resistances +30-45<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Visor of the Tropics<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Gladiator Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Gladiator Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">73</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">66</font></td>
@@ -1231,7 +1231,7 @@ Poison Length Reduced by 80%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Spirit of Genghis Khan<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Tusk Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Tusk Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">67</font></td>
@@ -1250,7 +1250,7 @@ Poison Length Reduced by 80%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Diablo's Horns<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Devil Mask</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Devil Mask</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
@@ -1266,7 +1266,7 @@ Adds 50-200 Fire Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Arreat's Faceplate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Royal Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Royal Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">68</font></td>
@@ -1281,7 +1281,7 @@ Freezes Target 2<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Death's Cowl<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Demon Skull</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Demon Skull</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
@@ -1298,7 +1298,7 @@ Damage Reduced By 10-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Bruenor's Cranium<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Dwarven Battle Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Dwarven Battle Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">83</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -1317,7 +1317,7 @@ Slows Target By 20%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Arthur's Crown<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#hel">Enchanted Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#hel">Enchanted Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">82</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -1337,23 +1337,23 @@ Adds 50-75 Magic Damage<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -1366,7 +1366,7 @@ Adds 50-75 Magic Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>The Diamond Hairband<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#cir">Circlet</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#cir">Circlet</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">30</font></td>
@@ -1381,7 +1381,7 @@ Magic Damage Reduced By 4-8<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Zan-Esus' Commitment<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#cir">Coronet</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#cir">Coronet</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">30</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">40</font></td>
@@ -1397,7 +1397,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Lunar Charm<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#cir">Tiara</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#cir">Tiara</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
@@ -1416,7 +1416,7 @@ Slain Monsters Rest In Peace<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Heart of Jewels<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#cir">Diadem</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#cir">Diadem</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">60</font></td>
@@ -1437,23 +1437,23 @@ Reduces All Vendor Prices 5-25%<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -1466,7 +1466,7 @@ Reduces All Vendor Prices 5-25%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Zuez' Padding<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Quilted Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Quilted Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">9</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
@@ -1482,7 +1482,7 @@ Magic Damage Reduced By 2-4<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Gecko's Leather<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Leather Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Leather Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">12</font></td>
@@ -1498,7 +1498,7 @@ Fire Resist +45%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Ragegarb<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Hard Leather</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Hard Leather</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">14</font></td>
@@ -1515,7 +1515,7 @@ Damage Reduced By 3-6<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Rathma's Protector<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Studded Leather</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Studded Leather</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
@@ -1533,7 +1533,7 @@ Poison Resist +20-40%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Mail of the Shadows<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Ring Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Ring Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">14</font></td>
@@ -1551,7 +1551,7 @@ Magic Absorb 40%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Fearless Garb<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Scale Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Scale Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">15</font></td>
@@ -1569,7 +1569,7 @@ Cannot Be Frozen<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Mail of the Sun<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Chain Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Chain Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">23</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">17</font></td>
@@ -1588,7 +1588,7 @@ Fire Resist +25-50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Rasputin's Chestplate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Breast Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Breast Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">27</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
@@ -1605,7 +1605,7 @@ All Resistances +50<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Krujoy's Mail<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Splint Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Splint Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">30</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
@@ -1621,7 +1621,7 @@ Attacker Takes Damage of 15-45<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Flashpoint Armor<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Plate Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Plate Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">35</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">26</font></td>
@@ -1638,7 +1638,7 @@ Hit Blinds Target<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Ironlord's Plate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Field Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Field Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">38</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">28</font></td>
@@ -1655,7 +1655,7 @@ Heal Stamina Plus +10-50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Plate of Spikes<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Gothic Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Gothic Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -1675,7 +1675,7 @@ Lvl 5 Protection From Lightning* (1 Charge)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Frozen Soulbearer<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">LightPlate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">LightPlate</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -1693,7 +1693,7 @@ Cannot Be Frozen<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Lightbringer's Revenge<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Full Plate Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Full Plate Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">38</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">28</font></td>
@@ -1712,7 +1712,7 @@ Adds 1-16 Fire Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Steel of Legends<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Ancient Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Ancient Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">38</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">28</font></td>
@@ -1728,7 +1728,7 @@ Adds 1-16 Fire Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Spikes of the Rhyno<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Spiked Shoulder</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Spiked Shoulder</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">12</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">6</font></td>
@@ -1746,7 +1746,7 @@ Lvl 2 Protection From Lightning (1 Charge)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Corrupted Sanctuary<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Elven Chain</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Elven Chain</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">37</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">30</font></td>
@@ -1765,7 +1765,7 @@ Replenish Life -(1-10)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Robe of the White Mage<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Ghost Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Ghost Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">28</font></td>
@@ -1784,7 +1784,7 @@ Attacker Takes Lightning Damage of 30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Black Armor<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">SerpentSkin Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">SerpentSkin Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">37</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">29</font></td>
@@ -1802,7 +1802,7 @@ Hit Blinds Target<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Demon Skin<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Demonhide Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Demonhide Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">31</font></td>
@@ -1821,7 +1821,7 @@ Cannot Be Frozen<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Palashia's Defense<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Tresllised Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Tresllised Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">41</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">33</font></td>
@@ -1837,7 +1837,7 @@ Cannot Be Frozen<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Robe of the Phoenix<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Linked Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Linked Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">43</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
@@ -1856,7 +1856,7 @@ Adds 10-25 Fire Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Ancient Guardian<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Tigulated Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Tigulated Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">45</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">37</font></td>
@@ -1872,7 +1872,7 @@ Magic Absorb 0-15%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Armor of the Wind<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Mesh Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Mesh Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">38</font></td>
@@ -1890,7 +1890,7 @@ Lvl 10 Immolation Arrow* (5 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Scarab Demon Carapace<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Cuirass</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Cuirass</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">41</font></td>
@@ -1909,7 +1909,7 @@ Adds 1-50 Fire Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Mountain's Skin<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Russet Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Russet Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -1928,7 +1928,7 @@ All Resistances +20-40<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Arkaine's Valor<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Templar Coat</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Templar Coat</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">53</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">45</font></td>
@@ -1942,7 +1942,7 @@ Damage Reduced By 4-12<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Armor of the Deep<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Sharktooth Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Sharktooth Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">56</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">48</font></td>
@@ -1959,7 +1959,7 @@ Hit Blinds Target<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Piotyr's Plate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Embossed Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Embossed Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">59</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">51</font></td>
@@ -1975,7 +1975,7 @@ Magic Damage Reduced By 5-12<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Templar Protector<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Mage Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Mage Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">59</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">51</font></td>
@@ -1990,7 +1990,7 @@ Requirements -(20-40)%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Armor of the Dragon Mage<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Chaos Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Chaos Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">61</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">53</font></td>
@@ -2009,7 +2009,7 @@ Lightning Absorb 0-10%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Demonspike Coat<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Ornate Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Ornate Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">63</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
@@ -2027,7 +2027,7 @@ Damage Reduced By 5-9<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Iron Maiden<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Thorned Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Thorned Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
@@ -2043,7 +2043,7 @@ Attacker Takes Damage of 100-200<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Drizzt's Mithril<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Drow Adamantite Chain</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Drow Adamantite Chain</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">60</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
@@ -2057,7 +2057,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Nightscape<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Padded Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Padded Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">60</font></td>
@@ -2076,7 +2076,7 @@ All Resistances +20-35<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Cottonmouth Jacket<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Viper Skin</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Viper Skin</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">78</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">72</font></td>
@@ -2092,7 +2092,7 @@ Requirements -50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Hellrust<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Demon Carapace</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Demon Carapace</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">73</font></td>
@@ -2111,7 +2111,7 @@ Prevent Monster Heal<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Brilliance<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Gemstoned Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Gemstoned Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">72</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
@@ -2125,7 +2125,7 @@ Gem Socket (3)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Chains of Binding<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Heavy Mail</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Heavy Mail</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
@@ -2140,7 +2140,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Acero Frio<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Dragon Scale</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Dragon Scale</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">78</font></td>
@@ -2153,7 +2153,7 @@ Gem Socket (3)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Vulcanguard<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Chain Shirt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Chain Shirt</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -2168,7 +2168,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Atlastrust<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Chest Guard</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Chest Guard</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
@@ -2183,7 +2183,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Hellforge's Finest<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Demon Fleece</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Demon Fleece</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">89</font></td>
@@ -2199,7 +2199,7 @@ Cannot Be Frozen<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Blanchwood Vest<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Plated Cuirass</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Plated Cuirass</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
@@ -2216,7 +2216,7 @@ Damage Reduced By 10-20%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Aakta's Defense<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Combat Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Combat Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -2231,7 +2231,7 @@ Damage Reduced By 10-15%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Leoric's Plate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Royal Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Royal Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">82</font></td>
@@ -2248,7 +2248,7 @@ All Resistances +30-40<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Robes of Power<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Archmage Plate</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Archmage Plate</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">85</font></td>
@@ -2263,7 +2263,7 @@ All Resistances +20-40<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Izeal's Vise<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Ceremonial Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Ceremonial Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
@@ -2277,7 +2277,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Guardian of Time<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Archaic Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Archaic Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">88</font></td>
@@ -2296,7 +2296,7 @@ Regenerate Mana +30-60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Deflective Spikes<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Spiked Armor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Spiked Armor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
@@ -2312,7 +2312,7 @@ Magic Absorb 15-25%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Silvasa's Dress<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#arm">Sylvan Chain</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#arm">Sylvan Chain</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">82</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
@@ -2331,23 +2331,23 @@ All Resistances +25-50<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2360,7 +2360,7 @@ All Resistances +25-50<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>The Rainbow Cloak<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#rob">Cloak</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#rob">Cloak</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">2</font></td>
@@ -2379,7 +2379,7 @@ All Resistances +5-10<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Darkmage's Robe<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#rob">Robe</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#rob">Robe</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">36</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">26</font></td>
@@ -2398,7 +2398,7 @@ Half Freeze Duration<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Shroud of Azalin<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#rob">Summoner's Cloak</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#rob">Summoner's Cloak</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">41</font></td>
@@ -2417,7 +2417,7 @@ Prevent Monster Heal<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Wisdom's Wrap<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#rob">Mage Robe</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#rob">Mage Robe</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">57</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
@@ -2435,7 +2435,7 @@ Magic Resist +15-45%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Lothar's Cape<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#rob">Enchanted Cloak</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#rob">Enchanted Cloak</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
@@ -2453,7 +2453,7 @@ All Resistances +20-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Kaija's Gown<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#rob">Archmage Robe</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#rob">Archmage Robe</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
@@ -2470,23 +2470,23 @@ All Resistances +20-30<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2499,7 +2499,7 @@ All Resistances +20-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Romanary Pelt<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Buckler</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Buckler</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">3</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">2</font></td>
@@ -2515,7 +2515,7 @@ All Resistances +20-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Stargate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Small Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Small Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">12</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">9</font></td>
@@ -2530,7 +2530,7 @@ Magic Absorb 0-15%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Mercenary's Brace<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Large Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Large Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">18</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">13</font></td>
@@ -2546,7 +2546,7 @@ Lightning Resist +25-35%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Spikes of Rajamir<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Spiked Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Spiked Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">15</font></td>
@@ -2562,7 +2562,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Raven's Shield<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Kite Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Kite Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">23</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">17</font></td>
@@ -2579,7 +2579,7 @@ Regenerate Mana +10-20%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Skullbear's Soul<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Bone Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Bone Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">27</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
@@ -2597,7 +2597,7 @@ Replenish Life +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Stormwynd's Mania<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Tower Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Tower Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">26</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
@@ -2613,7 +2613,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Defender of Justice<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Gothic Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Gothic Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">35</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">26</font></td>
@@ -2629,7 +2629,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Phrozen Heart<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Fortress Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Fortress Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">38</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">28</font></td>
@@ -2646,7 +2646,7 @@ Cold Duration 6-18 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Deflector<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Defender</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Defender</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">28</font></td>
@@ -2664,7 +2664,7 @@ Attacker Takes Damage of 25-75<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Karcheus' Ward<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Round Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Round Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">31</font></td>
@@ -2683,7 +2683,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Face of the Sun<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Scutum</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Scutum</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">43</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
@@ -2702,7 +2702,7 @@ Replenish Life +3-9<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Spikewall<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Barbed Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Barbed Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">43</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
@@ -2719,7 +2719,7 @@ Attacker Takes Damage of 100-200<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Shield of Pain<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Dragon Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Dragon Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">38</font></td>
@@ -2733,7 +2733,7 @@ Replenish Life -30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Tortured Souls<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Grim Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Grim Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">41</font></td>
@@ -2750,7 +2750,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Wall of the Ancient Oak<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Pavise</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Pavise</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">52</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">44</font></td>
@@ -2767,7 +2767,7 @@ Damage Reduced By 4-8<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Mithril Shield<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Ancient Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Ancient Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">58</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
@@ -2784,7 +2784,7 @@ Magic Damage Reduced By 4-8<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Link's Mirror<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Reflection Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Reflection Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">58</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">54</font></td>
@@ -2803,7 +2803,7 @@ Attacker Takes Damage of 50-150<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Lady Raven's Power<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Petrified Buckler</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Petrified Buckler</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">82</font></td>
@@ -2819,7 +2819,7 @@ Poison Resist +36-72%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Elzix's Treasure<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Desert Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Desert Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">58</font></td>
@@ -2834,7 +2834,7 @@ Lvl 100 Increased Speed* (5 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Cyclop's Protector<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Giant Buckler</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Giant Buckler</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">64</font></td>
@@ -2848,7 +2848,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Seduction of Pain<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Thorned Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Thorned Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
@@ -2864,7 +2864,7 @@ Adds 0-50 Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Dragon's Breach<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Military Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Military Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">73</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">78</font></td>
@@ -2883,7 +2883,7 @@ Fire Resist +65%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Icon of Sin<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Demon Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Demon Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
@@ -2900,7 +2900,7 @@ Replenish Life -20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Barricade<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Royal Guard</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Royal Guard</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">81</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -2912,7 +2912,7 @@ All Resistances +35-45<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Stonewall<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Body Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Body Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -2926,7 +2926,7 @@ Indestructible<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Guardian Angel<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#shi">Ceremonial Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#shi">Ceremonial Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">85</font></td>
@@ -2948,23 +2948,23 @@ Damage Reduced By 5-15<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -2977,7 +2977,7 @@ Damage Reduced By 5-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Leather of Luck<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Leather Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Leather Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">5</font></td>
@@ -2989,7 +2989,7 @@ Damage Reduced By 5-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Hand of Grog<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Heavy Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Heavy Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">12</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">9</font></td>
@@ -3004,7 +3004,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Gloves of Firebrand<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Chain Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Chain Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">15</font></td>
@@ -3020,7 +3020,7 @@ Fire Resist +30-60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Darkflight Hand<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Light Gauntlets</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Light Gauntlets</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">31</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">23</font></td>
@@ -3036,7 +3036,7 @@ Adds 10-15 Cold Damage 6 Sec Duration<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Heartrand's Gaunts<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Gauntlets</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Gauntlets</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3052,7 +3052,7 @@ Fire Resist +50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Fireheart's Hand<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Iron Guards</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Iron Guards</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3067,7 +3067,7 @@ Fire Resist +30-60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Hands of the Assassin<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Demonhide Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Demonhide Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">37</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3083,7 +3083,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Gloves of Nor Tiraj<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Sharkskin Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Sharkskin Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">32</font></td>
@@ -3098,7 +3098,7 @@ Magic Damage Reduced By 3-9<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Shiva's Touch<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Heavy Bracers</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Heavy Bracers</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">44</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
@@ -3115,7 +3115,7 @@ Cold Duration 16-32 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Runefusion<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Battle Guantlets</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Battle Guantlets</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -3131,7 +3131,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Suffocation of Indifference<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">War Gauntlets</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">War Gauntlets</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">47</font></td>
@@ -3148,7 +3148,7 @@ Slows Target By 25-50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Lockheart's Grip<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Imperial Guards</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Imperial Guards</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">56</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
@@ -3163,7 +3163,7 @@ Slows Target By 25-50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Gloves of the Dark Mage<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Spellcaster Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Spellcaster Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">73</font></td>
@@ -3178,7 +3178,7 @@ Magic Damage Reduced By 5-10<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Hands of Atlas<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Viper Hands</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Viper Hands</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">73</font></td>
@@ -3190,7 +3190,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Death's Grip<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Sepulcher Gloves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Sepulcher Gloves</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">83</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
@@ -3206,7 +3206,7 @@ Prevent Monster Heal<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Iron Fist<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Gladiator Bracers</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Gladiator Bracers</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
@@ -3219,7 +3219,7 @@ Damage Reduced By 10-15%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Herculean Grip<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Titan Bracers</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Titan Bracers</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
@@ -3233,7 +3233,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Greiz's Legion<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#glo">Royal Guards</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#glo">Royal Guards</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
@@ -3249,23 +3249,23 @@ Knockback<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -3278,7 +3278,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Boots of Firewalk<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">5</font></td>
@@ -3293,7 +3293,7 @@ Fire Resist +20-60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Icelander's Wear<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Heavy Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Heavy Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">12</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">9</font></td>
@@ -3308,7 +3308,7 @@ Half Freeze Duration<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Orcish Walkgarb<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Chain Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Chain Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">15</font></td>
@@ -3323,7 +3323,7 @@ Half Freeze Duration<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Vindalay's Sole<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Light Plate Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Light Plate Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">30</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
@@ -3338,7 +3338,7 @@ Damage Reduced By 3-6<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Lightmaster's Walk<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Greaves</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Greaves</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3354,7 +3354,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Zhoul's Slippers<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Ethereal Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Ethereal Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">31</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">23</font></td>
@@ -3369,7 +3369,7 @@ Magic Damage Reduced By 3-6<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Demonspeed<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Demonhide Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Demonhide Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">37</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3382,7 +3382,7 @@ Magic Damage Reduced By 4-8<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Flickerheel<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Sharkskin Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Sharkskin Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">32</font></td>
@@ -3399,7 +3399,7 @@ Cannot Be Frozen<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Chillcobble<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Mesh Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Mesh Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">44</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
@@ -3417,7 +3417,7 @@ Cold Duration 8-32 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Boots of the Valiant<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Battle Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Battle Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -3434,7 +3434,7 @@ Cold Duration 8-32 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Haste of Athulua<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">War Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">War Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">47</font></td>
@@ -3453,7 +3453,7 @@ Ignores Target's Defense<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Wren's Reinforced Tech Boots<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Mystile Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Mystile Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">61</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">53</font></td>
@@ -3469,7 +3469,7 @@ Adds 10-15 Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Heart of the Moon<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Rogue Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Rogue Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">67</font></td>
@@ -3486,7 +3486,7 @@ Replenish Life +8-12<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Boots of the Serpent<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Viper Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Viper Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">72</font></td>
@@ -3504,7 +3504,7 @@ Poison Length Reduced by 100%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Boots of Aether<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Sepulcher Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Sepulcher Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">66</font></td>
@@ -3519,7 +3519,7 @@ Regenerate Mana +60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Hermes' Gift<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Plated Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Plated Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">73</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
@@ -3537,7 +3537,7 @@ Regenerate Mana +60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Heel of Blood<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Gladiator Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Gladiator Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">77</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
@@ -3552,7 +3552,7 @@ Regenerate Mana +60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Spirits of the Dead<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#boo">Spirit Boots</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#boo">Spirit Boots</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">81</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
@@ -3571,23 +3571,23 @@ Hit Causes Monster Flee 32-96%<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -3600,7 +3600,7 @@ Hit Causes Monster Flee 32-96%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Imperial Sash<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Sash</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Sash</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">10</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
@@ -3615,7 +3615,7 @@ All Resistances +5-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Raimen's Belt of Fear<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Light Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Light Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">12</font></td>
@@ -3634,7 +3634,7 @@ Cold Resist +10-30%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Glowharness<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">27</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
@@ -3652,7 +3652,7 @@ All Resistances +15-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Blustone's Belt<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Heavy Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Heavy Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">36</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">27</font></td>
@@ -3670,7 +3670,7 @@ Cold Duration 6-18 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Harness of the Gods<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Plated Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Plated Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3687,7 +3687,7 @@ Cold Duration 2-10 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Goldark's Strap<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Muscle Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Muscle Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">32</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">25</font></td>
@@ -3702,7 +3702,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Smiles of Fortune<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Demonhide Sash</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Demonhide Sash</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">1</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">29</font></td>
@@ -3719,7 +3719,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Rumour of Pain<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Sharkskin Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Sharkskin Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">39</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">32</font></td>
@@ -3735,7 +3735,7 @@ Adds 50-100 Poison Damage Over 4 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Strap of Cythys<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Mesh Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Mesh Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">45</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
@@ -3751,7 +3751,7 @@ Poison Resist +22-88%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Battlecharge<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Battle Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Battle Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">49</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -3768,7 +3768,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Timeloop<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">War Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">War Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">47</font></td>
@@ -3783,7 +3783,7 @@ Slows Target By 50-100%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Circle of the Ancients<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Titan Brace</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Titan Brace</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">63</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">57</font></td>
@@ -3802,7 +3802,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Blazeband<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Hemp Band</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Hemp Band</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">75</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
@@ -3819,7 +3819,7 @@ Lvl 25 Lightning Inferno* (5 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Band of Constriction<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Rogue Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Rogue Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">80</font></td>
@@ -3833,7 +3833,7 @@ Replenish Life -30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Laertes' Treasure<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Merchant Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Merchant Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">79</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">78</font></td>
@@ -3847,7 +3847,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Spartacus' Defense<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Military Belt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Military Belt</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">68</font></td>
@@ -3864,7 +3864,7 @@ Damage Reduced By 10-14<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Girdle of Giant Strength<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Girdle</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Girdle</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">71</font></td>
@@ -3877,7 +3877,7 @@ All Resistances +16<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Belt of Zeus<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bel">Gladiator Wrap</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bel">Gladiator Wrap</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
@@ -3895,23 +3895,23 @@ All Resistances +10-30<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -3924,7 +3924,7 @@ All Resistances +10-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Hinge of Sinnew<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Jawbone Cap</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Jawbone Cap</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">4</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
@@ -3940,7 +3940,7 @@ Magic Damage Reduced By 2-4<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Crusheye<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Fanged Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Fanged Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">8</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">10</font></td>
@@ -3955,7 +3955,7 @@ Half Freeze Duration<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>The Raging Bull<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Horned Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Horned Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
@@ -3971,7 +3971,7 @@ Half Freeze Duration<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Army of One<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Assault Helmet</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Assault Helmet</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
@@ -3986,7 +3986,7 @@ All Resistances +20-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>The Augmentor<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Avenger Guard</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Avenger Guard</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">24</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
@@ -4003,7 +4003,7 @@ Regenerate Mana +25-50%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Helm of the Dead King<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Jawbone Visor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Jawbone Visor</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">30</font></td>
@@ -4019,7 +4019,7 @@ Adds 25-50 Magic Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Savannah's Pride<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Lion Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Lion Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">34</font></td>
@@ -4033,7 +4033,7 @@ Lightning Absorb 1-10%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Crimson Faceplate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Rage Mask</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Rage Mask</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">33</font></td>
@@ -4049,7 +4049,7 @@ Lightning Absorb 1-10%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Phase Visor<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Savage Helmet</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Savage Helmet</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
@@ -4063,7 +4063,7 @@ Indestructible<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Arreat's Face<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Slayer Guard</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Slayer Guard</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -4079,7 +4079,7 @@ All Resistances +20-40<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Coldfist's Icy Stare<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Carnage Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Carnage Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">45</font></td>
@@ -4097,7 +4097,7 @@ Cold Duration 18-54 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Adrenaline Rush<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Fury Visor</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Fury Visor</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">55</font></td>
@@ -4111,7 +4111,7 @@ Cold Duration 18-54 Sec<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Wyrm's Wrap<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Destroyer Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Destroyer Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">61</font></td>
@@ -4129,7 +4129,7 @@ Lightning Resist +40-80%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Larzuk's Innovation<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Conquerer Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Conquerer Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">83</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">66</font></td>
@@ -4147,7 +4147,7 @@ Indestructible<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>The Ancients' Blessing<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#bar">Guardian Crown</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#bar">Guardian Crown</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
@@ -4166,23 +4166,23 @@ Damage Reduced By 5-15<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4195,7 +4195,7 @@ Damage Reduced By 5-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Fang's Valor<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Wolf Head</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Wolf Head</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">4</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
@@ -4209,7 +4209,7 @@ Damage Reduced By 5-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Shadow Crow<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Hawk Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Hawk Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">8</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">10</font></td>
@@ -4223,7 +4223,7 @@ Adds 5-25 Magic Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Alizee's Flaming Horns<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Antlers</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Antlers</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
@@ -4240,7 +4240,7 @@ Fire Resist +20-40%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Razor Beak<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Falcon Mask</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Falcon Mask</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
@@ -4257,7 +4257,7 @@ All Resistances +5-15<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Starwolf's Facade<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Spirit Mask</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Spirit Mask</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">24</font></td>
@@ -4273,7 +4273,7 @@ Hit Causes Monster Flee 0-64%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Con Dar Warpaint<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Alpha Helm</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Alpha Helm</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">30</font></td>
@@ -4289,7 +4289,7 @@ Magic Damage Reduced By 3-6<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Ravenlord<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Griffon Headress</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Griffon Headress</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">34</font></td>
@@ -4304,7 +4304,7 @@ All Resistances +9-18<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Horns of Allesthir<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Hunter's Guise</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Hunter's Guise</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">33</font></td>
@@ -4319,7 +4319,7 @@ Knockback<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Phoenix Tail<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Sacred Feathers</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Sacred Feathers</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
@@ -4336,7 +4336,7 @@ Replenish Life +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Jalal's Mane<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Dream Spirit</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Dream Spirit</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -4354,7 +4354,7 @@ All Resistances +20-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Necromancer's Essense<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Blood Spirt</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Blood Spirt</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">45</font></td>
@@ -4374,7 +4374,7 @@ Lvl 5 Soul Spear** (5 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Mojabi's Face<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Sun Spirit</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Sun Spirit</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">55</font></td>
@@ -4391,7 +4391,7 @@ Fire Resist +60-100%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Tetonic Horns<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Earth Spirit</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Earth Spirit</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">61</font></td>
@@ -4408,7 +4408,7 @@ Lightning Resist +40-80%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Aire Libre<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Sky Spirit</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Sky Spirit</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">83</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">66</font></td>
@@ -4426,7 +4426,7 @@ Lightning Resist +25-75%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Beast of the Night<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#dru">Dream Spirit</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#dru">Dream Spirit</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
@@ -4446,23 +4446,23 @@ All Resistances +10-20<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4475,7 +4475,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Wirt's Skull<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Preserved Head</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Preserved Head</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">4</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
@@ -4490,7 +4490,7 @@ All Resistances +10-20<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Corpsefire's Head<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Zombie Head</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Zombie Head</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">8</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">10</font></td>
@@ -4507,7 +4507,7 @@ Cold Resist +15-45%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Radament's Rotting Skull<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Unraveller Head</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Unraveller Head</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
@@ -4524,7 +4524,7 @@ Regenerate Mana +10-20%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Pitspawn's Gaze<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Gargoyle Head</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Gargoyle Head</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
@@ -4539,7 +4539,7 @@ Regenerate Mana +10-20%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Andariel's Face<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Demon Head</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Demon Head</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">24</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
@@ -4556,7 +4556,7 @@ Poison Resist +40-60%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Ancient Kaa's Soul<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Mummified Trophy</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Mummified Trophy</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">30</font></td>
@@ -4573,7 +4573,7 @@ All Resistances +10-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Red Death's Madness<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Fetish Trophy</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Fetish Trophy</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">34</font></td>
@@ -4590,7 +4590,7 @@ Increase Max Mana 5-15%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>The Grim Compass<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Sexton Trophy</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Sexton Trophy</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">33</font></td>
@@ -4608,7 +4608,7 @@ Lvl 20 Strength of Ancients* (5 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Disturbing Visions<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Cantor Trophy</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Cantor Trophy</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">36</font></td>
@@ -4626,7 +4626,7 @@ Replenish Life +0-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Homunculus<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Heirophant Trophy</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Heirophant Trophy</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -4644,7 +4644,7 @@ All Resistances +20-40<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Splitskull Shield<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Minion Skull</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Minion Skull</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">55</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">45</font></td>
@@ -4662,7 +4662,7 @@ Attacker Takes Damage of 75-150<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Head of the Cerberus<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Hellspawn Skull</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Hellspawn Skull</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">69</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">55</font></td>
@@ -4681,7 +4681,7 @@ Lvl 20 Summon Dire Wolf (10 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Shenk's Mask<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Overseer Skull</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Overseer Skull</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">76</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">61</font></td>
@@ -4699,7 +4699,7 @@ Lvl 15 Vigor* (6 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Winged Embrace<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Succubae Skull</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Succubae Skull</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">83</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">66</font></td>
@@ -4718,7 +4718,7 @@ Increase Max Mana 10-20%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Dracula's Wit<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#nec">Bloodlord Skull</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#nec">Bloodlord Skull</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
@@ -4741,23 +4741,23 @@ Lvl 1 Energy Shield* (40 Charges)<br>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 </font></td></tr>
 </tbody></table>
 <table border="0" cellpadding="5">
@@ -4770,7 +4770,7 @@ Lvl 1 Energy Shield* (40 Charges)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Dogma<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Targe</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Targe</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">4</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">7</font></td>
@@ -4784,7 +4784,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Archer's Bane<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Rondache</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Rondache</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">8</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">10</font></td>
@@ -4799,7 +4799,7 @@ Attacker Takes Lightning Damage of 10-30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>Diablo's Crest<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Heraldic Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Heraldic Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">16</font></td>
@@ -4817,7 +4817,7 @@ Lightning Resist +15-45%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>The Bishop<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Aerin Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Aerin Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">20</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">19</font></td>
@@ -4833,7 +4833,7 @@ Adds 5-10 Damage<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1"><b>King's Blessing<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Crown Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Crown Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">24</font></td>
 <td align="center" bgcolor="#101010"><font face="arial,helvetica" size="-1">22</font></td>
@@ -4845,7 +4845,7 @@ Attacker Takes Lightning Damage of 30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Gorgon Slayer<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Akaran Targe</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Akaran Targe</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">35</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">30</font></td>
@@ -4862,7 +4862,7 @@ Cold Resist +35-70%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Hadriel's Barricade<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Akaran Rondache</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Akaran Rondache</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">40</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">34</font></td>
@@ -4878,7 +4878,7 @@ Attacker Takes Lightning Damage of 30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Wall of the Crusader<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Protector Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Protector Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">46</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">38</font></td>
@@ -4892,7 +4892,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Herald of Zakarum<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Aerin Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Aerin Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">50</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -4909,7 +4909,7 @@ Gem Socket (2)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1"><b>Imperial War Guard<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Royal Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Royal Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">51</font></td>
 <td align="center" bgcolor="#202020"><font face="arial,helvetica" size="-1">42</font></td>
@@ -4928,7 +4928,7 @@ Attacker Takes Lightning Damage of 30<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Faith<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Sacred Targe</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Sacred Targe</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">63</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">51</font></td>
@@ -4942,7 +4942,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Godspeed<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Sacred Rondache</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Sacred Rondache</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">56</font></td>
@@ -4959,7 +4959,7 @@ Gem Socket (1)<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Heaven's Gate<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Ancient Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Ancient Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">74</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">59</font></td>
@@ -4976,7 +4976,7 @@ Magic Absorb 0-15%<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Leader of the Light<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Zakarum Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Zakarum Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">82</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">65</font></td>
@@ -4993,7 +4993,7 @@ All Resistances +30-45<br>
 </tr>
 <tr>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1"><b>Black Hole<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo#pal">Vortex Shield</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo#pal">Vortex Shield</a>
 </b></font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">84</font></td>
 <td align="center" bgcolor="#303030"><font face="arial,helvetica" size="-1">70</font></td>
@@ -5012,33 +5012,33 @@ Lightning Absorb 1-20%<br>
 </tbody></table><table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uarmo#pal">[Pal]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
 <br>
 <a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3weap">[Base Weapons]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
 [Unique Armor]
-<a href="https://www.EasternSun300.github.io/ItemDB/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/es3cube">[Cube Recipes]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
+</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
+<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 </font></td></tr>
 </tbody></table>
 </a></center><a name="pal">
