@@ -10,15 +10,15 @@ Eastern Sun 3.00 Database
 <font face="arial,helvetica" size="+2">Eastern Sun 3.00 Database (Old)<br></font>
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
-by tsuru (tsurumurasaki)</font>
+by tsuru (tsurumurasaki)
+ Click on each .md above to see the items
+</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" width="840">
 <font face="arial,helvetica" size="+1"><b>Eastern Sun 3.00 Database (Old)</b></font></td></tr>
 <td align="left" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
 <blockquote><br>
- 
- Click on each .md above to see the items
  
 This page is left for the old patch users for reference.<br>
 <br>
