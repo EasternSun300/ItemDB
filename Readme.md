@@ -19,15 +19,7 @@ by tsuru (tsurumurasaki)<br>
 <font face="arial,helvetica" size="+1"><b>Eastern Sun 3.00 Database (Old)</b></font></td></tr>
 <td align="left" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-<blockquote><br>
- 
-This page is left for the old patch users for reference.<br>
-<br>
-
-Late B series patches and C series patches has almost the same weapon/armor stats and cube recipes as N series. Please see the patch thread in ES forum for details.<br>
-<br>
-Known Problem<br>
-Some Lightning Damages on items are wrongly listed as Fire Damages. Sorry, no further plan to update.<br>
+<blockquote>CLICK ON EACH MD ABOVE TO SEE THE ITEMS
 </blockquote>
 </font></td>
 </tr>
