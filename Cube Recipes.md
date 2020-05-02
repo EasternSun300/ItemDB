@@ -8033,6 +8033,8 @@ The Same Item<br>
 </font>
 (The cap is 135%)<br>
 </font></td></tr>
+
+
 <tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica"><b>
 Secret Recipe 51<b></b></b></font></td></tr>
@@ -8042,6 +8044,37 @@ Input</font></td>
 <td align="center" bgcolor="#204020" width="50%">
 <font face="arial,helvetica" size="-1">
 Output</font></td></tr>
+
+<tr><td align="center" bgcolor="#181818">
+<font face="arial,helvetica" size="-1" color="#181818">
+Any no Socket Grand Charm<br>
+Socketed Ring<br>
+Socketed Amulet<br>
+</font></td>
+<td align="center" bgcolor="#181818">
+<font face="arial,helvetica" size="-1">
+The Same Grand Charm<br>
+<font color="4850B8">
+Gem Socket (1)<br>
+(ilvl = previous ilvl)<br>
+</font>
+</font></td></tr>
+
+<tr><td align="center" bgcolor="#181818">
+<font face="arial,helvetica" size="-1" color="#181818">
+Any 1 Socket Grand Charm<br>
+Socketed Ring<br>
+Socketed Amulet<br>
+</font></td>
+<td align="center" bgcolor="#181818">
+<font face="arial,helvetica" size="-1">
+The Same Grand Charm<br>
+<font color="4850B8">
+Gem Socket (2)<br>
+(ilvl = previous ilvl)<br>
+</font></td></tr>
+
+
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
 Any 2 Socket Grand Charm<br>
@@ -8058,70 +8091,43 @@ Gem Socket (3)<br>
 
 
 </font></td></tr>
-<tr><td align="center" bgcolor="#181818">
-<font face="arial,helvetica" size="-1" color="#181818">
-Any 1 Socket Grand Charm<br>
-Socketed Ring<br>
-Socketed Amulet<br>
-</font></td>
-<td align="center" bgcolor="#181818">
-<font face="arial,helvetica" size="-1">
-The Same Grand Charm<br>
-<font color="4850B8">
-Gem Socket (2)<br>
-(ilvl = previous ilvl)<br>
-</font></td></tr>
 
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic No Socket Grand Charm<br>
+Any Large Charm<br>
+Any 1 Socketed Grand Charm<br>
 Socketed Ring<br>
 Socketed Amulet<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-The Same Grand Charm<br>
+The Same Magic Large Charm<br>
 <font color="4850B8">
 Gem Socket (1)<br>
 (ilvl = previous ilvl)<br>
 </font>
 </font></td></tr>
+
+
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Large Charm<br>
-Magic 2 Socket Grand Charm<br>
+Any Large Charm<br>
+Any 2 Socket Grand Charm<br>
 Socketed Ring<br>
 Socketed Amulet<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Magic Large Charm (rerolled)<br>
+The Same Large Charm<br>
 <font color="4850B8">
-Random Affix(es)<br>
 Gem Socket (2)<br>
 (ilvl = previous ilvl)<br>
 </font>
-
-
 </font></td></tr>
-<tr><td align="center" bgcolor="#181818">
-<font face="arial,helvetica" size="-1" color="#181818">
-Magic Large Charm<br>
-Magic 1 Socketed Grand Charm<br>
-Socketed Ring<br>
-Socketed Amulet<br>
-</font></td>
-<td align="center" bgcolor="#181818">
-<font face="arial,helvetica" size="-1">
-Magic Large Charm (rerolled)<br>
-<font color="4850B8">
-Random Affix(es)<br>
-Gem Socket (1)<br>
-(ilvl = previous ilvl)<br>
-</font>
 
 
-</font></td></tr>
+
+
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
 Any Small Charm<br>
@@ -8136,7 +8142,8 @@ The Same Small Charm<br>
 Gem Socket (1)<br>
 (ilvl = previous ilvl)
 </font>
-
 </font></td></tr>
+
+
 </tbody></table>
 </body></html>
