@@ -536,11 +536,5 @@ Resist Lightning +75%<br>+200 Defense vs Missiles<br>+15% To Max Lightning Resis
 35% Better Chance of Getting Magic Items<br>75% Extra Gold From Monsters<br>+60 To Attack Rating<br>
 </font></font></td>
 </tr>
-<tr>
-<td bgcolor="402040" align="center" colspan="4"><font face="arial,helvetica" size="-1">
-The pale blue texts are the abilities of runes/gems themselves. Some weapons and body armor have helm like gem apply type.<br>
-If you make a runeword with such item, the abilities of runes themselves will differ. Refer to the base item page for the detail.
-</font></td></tr>
 </tbody></table>
-
 </body></html>
