@@ -10,7 +10,7 @@ Eastern Sun 3.00 Database
 <font face="arial,helvetica" size="+2">Eastern Sun 3.00 Database (Old)<br></font>
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
-by tsuru (tsurumurasaki)
+by tsuru (tsurumurasaki)<br>
  Click on each .md above to see the items
 </font>
 <table border="0" cellpadding="5">
