@@ -5501,7 +5501,7 @@ Spider's Silk<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Amazon Skill Levels<br>
 </font>
@@ -5515,7 +5515,7 @@ Dragon Stone<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Assassin Skill Levels<br>
 </font>
@@ -5529,7 +5529,7 @@ Forging Hammer<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Barbarian Skill Levels<br>
 </font>
@@ -5543,7 +5543,7 @@ Tyranium Ore<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Druid Skill Levels<br>
 </font>
@@ -5557,7 +5557,7 @@ Blackmoor<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Necromancer Skill Levels<br>
 </font>
@@ -5571,7 +5571,7 @@ Holy Symbol<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Paladin Skill Levels<br>
 </font>
@@ -5585,7 +5585,7 @@ Crushed Gem<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +1 To Sorceress Skill Levels<br>
 </font>
@@ -5599,7 +5599,7 @@ Spider's Silk<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Amazon Skill Levels<br>
 </font>
@@ -5613,7 +5613,7 @@ Dragon Stone<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Assassin Skill Levels<br>
 </font>
@@ -5627,7 +5627,7 @@ Forging Hammer<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Barbarian Skill Levels<br>
 </font>
@@ -5641,7 +5641,7 @@ Tyranium Ore<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Druid Skill Levels<br>
 </font>
@@ -5655,7 +5655,7 @@ Blackmoor<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Necromancer Skill Levels<br>
 </font>
@@ -5669,7 +5669,7 @@ Holy Symbol<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Paladin Skill Levels<br>
 </font>
@@ -5683,7 +5683,7 @@ Crushed Gem<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +1 To Sorceress Skill Levels<br>
 </font>
@@ -5706,7 +5706,7 @@ Perfect Emerald<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 20% Bonus To Attack Rating<br>
 </font>
@@ -5720,7 +5720,7 @@ Perfect Ruby<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 30% Increased Attack Speed<br>
 </font>
@@ -5734,7 +5734,7 @@ Perfect Amethyst<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 Adds 15 Damage<br>
 </font>
@@ -5748,7 +5748,7 @@ Perfect Topaz<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 Increase Max Life 20%<br>
 </font>
@@ -5762,7 +5762,7 @@ Perfect Skull<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 20% Faster Cast Rate<br>
 </font>
@@ -5776,7 +5776,7 @@ Perfect Diamond<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 +50 To Defense<br>
 </font>
@@ -5790,7 +5790,7 @@ Perfect Sapphire<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Unique Item of the Same Type (rerolled)<br>
+The Same Unique Item<br>
 <font color="4850B8">
 Increase Max Mana 20%<br>
 </font>
@@ -5804,7 +5804,7 @@ Perfect Emerald<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 20% Bonus To Attack Rating<br>
 </font>
@@ -5818,7 +5818,7 @@ Perfect Ruby<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 30% Increased Attack Speed<br>
 </font>
@@ -5832,7 +5832,7 @@ Perfect Amethyst<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 Adds 15 Damage<br>
 </font>
@@ -5846,7 +5846,7 @@ Perfect Topaz<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 Increase Max Life 20%<br>
 </font>
@@ -5860,7 +5860,7 @@ Perfect Skull<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 20% Faster Cast Rate<br>
 </font>
@@ -5874,7 +5874,7 @@ Perfect Diamond<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 +50 To Defense<br>
 </font>
@@ -5888,7 +5888,7 @@ Perfect Sapphire<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Set Item of the Same Type (rerolled)<br>
+The Same Set Item<br>
 <font color="4850B8">
 Increase Max Mana 20%<br>
 </font>
@@ -6832,14 +6832,14 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Any 0-7 Socket Normal Weapon<br>
+Any 0-5 Socket Normal Weapon<br>
 Forging Hammer<br>
 Tyranium Ore<br>
 Dragon Stone<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Normal Weapon of the Same Type<br>(Auto Mods Rerolled)<br>
+The Same Item<br>
 <font color="4850B8">
 Adds 1 Socket if Possible<br>
 </font>
@@ -6853,7 +6853,7 @@ Dragon Stone<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Normal Armor of the Same Type<br>(Auto Mods Rerolled)<br>
+The Same Item<br>
 <font color="4850B8">
 Adds 1 Socket if Possible<br>
 </font>
@@ -7357,13 +7357,7 @@ Rare Small Charm<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Rare Charm of the Same Type<br>
-<font color="4850B8">
-up to 3 Random Prefixes<br>
-</font>
-<font color="4850B8">
-up to 3 Random Suffixes<br>
-</font>
+The Same Item<br>
 <font color="4850B8">
 All Resistance +8%<br>
 </font>
@@ -7379,19 +7373,11 @@ Rare Large Charm<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Rare Charm of the Same Type<br>
-<font color="4850B8">
-up to 3 Random Prefixes<br>
-</font>
-<font color="4850B8">
-up to 3 Random Suffixes<br>
-</font>
+The Same Item<br>
 <font color="4850B8">
 All Resistance +12%<br>
 </font>
-<font color="4850B8">
 
-</font>
 
 </font></td></tr>
 <tr><td align="center" bgcolor="#181818">
@@ -7401,13 +7387,7 @@ Rare Grand Charm<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Rare Charm of the Same Type<br>
-<font color="4850B8">
-up to 3 Random Prefixes<br>
-</font>
-<font color="4850B8">
-up to 3 Random Suffixes<br>
-</font>
+The Same Item<br>
 <font color="4850B8">
 All Resistance +16%<br>
 </font>
@@ -7432,13 +7412,7 @@ Rare Grand Charm<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Rare Grand Charm<br>
-<font color="4850B8">
-up to 3 Random Prefixes<br>
-</font>
-<font color="4850B8">
-up to 3 Random Suffixes<br>
-</font>
+The Same Item<br>
 <font color="4850B8">
 +1 To All Skill Levels<br>
 </font>
@@ -7672,7 +7646,7 @@ The Same Item<br>
 <font color="4850B8">
 Level Requirement -1<br>
 </font>
-(only removes the requirement added afterward)<br>
+(only removes the requirement from DStoning)<br>
 
 
 </font></td></tr>
@@ -7696,7 +7670,7 @@ The Same Item<br>
 <font color="4850B8">
 Level Requirement -3<br>
 </font>
-(only removes the requirement added afterward)<br>
+(only removes the requirement from DStoning)<br>
 
 
 </font></td></tr>
