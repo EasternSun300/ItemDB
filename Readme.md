@@ -3,6 +3,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
+CLICK ON EACH .MD ABOVE TO SEE THE ITEMS.<br>
 Eastern Sun 3.00 Database
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
