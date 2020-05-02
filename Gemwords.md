@@ -2,7 +2,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>Eastern Sun 3.00 Gemwords</title>
+Eastern Sun 3.00 Gemwords
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
 <center>
@@ -10,20 +10,7 @@
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
 by tsuru (tsurumurasaki)</font>
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-[Gemwords]
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr>
 <td align="center" bgcolor="402040" colspan="4"><font face="arial,helvetica">
@@ -555,19 +542,5 @@ The pale blue texts are the abilities of runes/gems themselves. Some weapons and
 If you make a runeword with such item, the abilities of runes themselves will differ. Refer to the base item page for the detail.
 </font></td></tr>
 </tbody></table>
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-[Gemwords]
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
-</font></td></tr>
-</tbody></table>
-</center>
+
 </body></html>
