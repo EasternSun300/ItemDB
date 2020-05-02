@@ -2,7 +2,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>Eastern Sun 3.00 Cube Recipes</title>
+Eastern Sun 3.00 Cube Recipes
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
 <center>
@@ -10,41 +10,7 @@
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
 by tsuru (tsurumurasaki)</font>
-<a name="spe">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-[Cube Recipes]
-<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -94,31 +60,7 @@ Ancient Decipherer<br>
 Reveals Secrect Recipe 1-53<br>
 </font></td></tr>
 </tbody></table>
-</a><a name="pot">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -247,31 +189,7 @@ Elixir<br>
 
 </font></td></tr>
 </tbody></table>
-</a><a name="gem">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -357,31 +275,7 @@ Chipped Gem<br>
 Perfect Gem of Chipped Gem's Color<br>
 </font></td></tr>
 </tbody></table>
-</a><a name="run">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -422,31 +316,7 @@ E Rune (18)<br>
 
 </font></td></tr>
 </tbody></table>
-</a><a name="rep">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -531,31 +401,7 @@ Quantity Reset To 255<br>
 <font face="arial,helvetica" size="-1">
 If the current quantity is greater than 255 it's reduced to 255.<br>In the early patches, max # of arrows used to be 250, so Blizzard may wrongly take the # 255 as max.</font></td></tr>
 </tbody></table>
-</a><a name="mis">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -652,31 +498,7 @@ Adds 4-24 Fire Damage<br>
 
 </font></td></tr>
 </tbody></table>
-</a><a name="nor">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -730,31 +552,7 @@ Superior Weapon of the Same Type<br>(Auto Mods Rerolled)<br>
 
 </font></td></tr>
 </tbody></table>
-</a><a name="soc">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -953,31 +751,7 @@ Gem Socket (3)<br>
 <font face="arial,helvetica" size="-1">
 The # of gem socket is capped at the max socket # of the base item. The max socket # of Arrows/Bolts is 3.<br>The gem type of Arrows/Bolts is weapon (no runeword works). The gem type of Charms is helm.</font></td></tr>
 </tbody></table>
-</a><a name="mag">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -1536,31 +1310,7 @@ ilvl is the level of the spawned item. qlvl is the quality level of each base it
 <font face="arial,helvetica" size="-1">
 Some items like wands and circlets have magic level (mlvl).<br>If mlvl &gt; 0 then always alvl = ilvl + mlvl (ilvl is not divided by 2), so even 1 mlvl makes much difference.</font></td></tr>
 </tbody></table>
-</a><a name="rar">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -2039,31 +1789,7 @@ up to 2 Random Suffixes<br>
 </font>
 </font></td></tr>
 </tbody></table>
-</a><a name="set">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -2231,31 +1957,7 @@ Bard's Graceful Hand (Set Demonhide Gloves)<br>or<br>The Hands of Wier (Set Demo
 Bard's Graceful Hand (Set Demonhide Gloves)<br>or<br>The Hands of Wier (Set Demonhide Gloves)<br>
 </font></td></tr>
 </tbody></table>
-</a><a name="uni">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -2532,31 +2234,7 @@ Perfect Sapphire<br>
 </font>
 </font></td></tr>
 </tbody></table>
-</a><a name="bas">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -2662,31 +2340,7 @@ Caution: If you skill/stat craft a base-upgraded unique, it turns into the uniqu
 <font face="arial,helvetica" size="-1">
 Elite unique upgrades are ladder flagged and may not work on closed servers.</font></td></tr>
 </tbody></table>
-</a><a name="cha">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -3075,31 +2729,7 @@ Unique Grand Charm<br>
 
 </font></td></tr>
 </tbody></table>
-</a><a name="leg">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -3987,31 +3617,7 @@ Damage Reduced By 1-4<br>
 </font>
 </font></td></tr>
 </tbody></table>
-</a><a name="cla">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -5867,31 +5473,7 @@ Class Craft items must be created by a correspondent class character, but can be
 <font face="arial,helvetica" size="-1">
 LoD craft items have ilvl of (char lvl x 50% + item lvl x 50%), but ES craft recipes lack the description of ilvl and spawn an ilvl 1 item.<br>Weapons/armor can still have good mods as far as they have high qlvl. <br> Rings and amulets have no qlvl, so their random mods are always junky (the fixed mods are still powerful, though).</font></td></tr>
 </tbody></table>
-</a><a name="ski">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -6315,31 +5897,7 @@ Increase Max Mana 20%<br>
 <font face="arial,helvetica" size="-1">
 Skill/Stat Crafting doesn't spawn any crafted (orange) item, but it enhances unique/set items.<br>Reroll may change not only variable stats, but item itself if multiple uniques or sets of that type exist.</font></td></tr>
 </tbody></table>
-</a><a name="dst">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -6855,31 +6413,7 @@ Level Requirement +4<br>
 
 
 </tbody></table>
-</a><a name="sec">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5" width="840">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2">
 <font face="arial,helvetica" size="+1"><b>
@@ -8611,40 +8145,4 @@ Gem Socket (1)<br>
 
 </font></td></tr>
 </tbody></table>
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#spe">[Special]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#pot">[Pots/Misc]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#gem">[Gem]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#run">[Rune]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rep">[Repair]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mis">[Missile]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#nor">[Normal]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#soc">[Socket]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#mag">[Magic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#rar">[Rare]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#set">[Set]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#uni">[Unique]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#bas">[BaseUp]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cha">[Charm]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#leg">[Craft1]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#cla">[Craft2]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#ski">[Craft3]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#dst">[D-Stone]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube#sec">[Secret]</a>
-<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-[Cube Recipes]
-</font></td></tr>
-</tbody></table>
-</a></center><a name="sec">
-
-</a></body></html>
+</body></html>
