@@ -17,7 +17,9 @@ by tsuru (tsurumurasaki)</font>
 <td align="left" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
 <blockquote><br>
-  
+ 
+ Click on each .md above to see the items
+ 
 This page is left for the old patch users for reference.<br>
 <br>
 
