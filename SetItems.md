@@ -2,7 +2,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>Eastern Sun 3.00 Set Items</title>
+Eastern Sun 3.00 Set Items
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
 <center>
@@ -10,31 +10,7 @@
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
 by tsuru (tsurumurasaki)</font>
-<a name="gen">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-[Set Items]
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
-<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#gen">[Generic]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#ama">[Amazon]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#ass">[Assassin]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#bar">[Barbarian]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#dru">[Druid]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#nec">[Necromancer]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#pal">[Paladin]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#sor">[Sroceress]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set#mer">[Mercenary]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="2" width="880">
 <font face="arial,helvetica" size="+1"><b>Generic Sets</b></font></td></tr>
@@ -42,7 +18,7 @@ by tsuru (tsurumurasaki)</font>
 <font face="arial,helvetica"><b>Autolycus' Magic Tools</b></font></td></tr>
 <tr>
 <td align="center" bgcolor="#101010" width="50%"><font face="arial,helvetica" size="-1"><b><font color="#48B850">Autolycus' Sword of Venom</font><br>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap#swo">Short Sword</a><br></b>
+Short Sword<br></b>
 Lvl 4 / Req Lvl 3<br>
 <font color="4850B8">
 Adds 19-28 Poison Damage Over 3 Sec<br>
