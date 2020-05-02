@@ -8129,18 +8129,17 @@ Gem Socket (1)<br>
 </font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Small Charm<br>
-Magic 2 Socket Grand Charm<br>(Magic 1 or 3 Socket Grand Charm works instead)<br>
+Any Small Charm<br>
+Any 2 Socket Grand Charm<br><br>
 Socketed Ring<br>
 Socketed Amulet<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Magic Small Charm (rerolled)<br>
+The Same Small Charm<br>
 <font color="4850B8">
-Random Affix(es)<br>
 Gem Socket (1)<br>
-(ilvl = 99)
+(ilvl = previous ilvl)<br>
 </font>
 
 </font></td></tr>
