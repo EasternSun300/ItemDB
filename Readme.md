@@ -11,23 +11,6 @@
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
 by tsuru (tsurumurasaki)</font>
-<a name="pat">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-[Top]
-<a href="https://www.EasternSun300.github.io/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/es3uweap">[Unique Weapons]</a>
-<a href="https://www.EasternSun300.github.io/es3set">[Set Items]</a>
-<a href="https://www.EasternSun300.github.io/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/es3cube">[Cube Recipes]</a>
-<br>
-
-</font></td></tr>
-</tbody></table>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" width="840">
 <font face="arial,helvetica" size="+1"><b>Eastern Sun 3.00 Database (Old)</b></font></td></tr>
@@ -56,20 +39,4 @@ Some Lightning Damages on items are wrongly listed as Fire Damages. Sorry, no fu
 </td>
 </tr>
 </tbody></table>
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<br>
-[Top]
-<a href="https://www.EasternSun300.github.io/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/es3uweap">[Unique Weapons]</a>
-<a href="https://www.EasternSun300.github.io/es3set">[Set Items]</a>
-<a href="https://www.EasternSun300.github.io/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/es3cube">[Cube Recipes]</a>
-</font></td></tr>
-</tbody></table>
-</a></center><a name="pat">
-</a></body></html>
+</body></html>
