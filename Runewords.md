@@ -2,7 +2,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>Eastern Sun 3.00 Runewords</title>
+Eastern Sun 3.00 Runewords
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
 <center>
@@ -13,15 +13,7 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#000000">
 <font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-[Runewords]
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
+
 <br>
 <font color="#FFFFFF">I U Shi Ka N Ku Yo </font>
 <font color="#B22222">Ki Ri Mi Ya A Tsu Chi </font>
@@ -4636,15 +4628,6 @@ Poison Resist +35%<br>
 <font color="#A0A747">No Te Ro So Mu Ne Re </font>
 <font color="#9400D3">Su He Nu Wo</font>
 <br>
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo">[Unique Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-[Runewords]
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
 </font></td></tr>
 </tbody></table>
 </center>
