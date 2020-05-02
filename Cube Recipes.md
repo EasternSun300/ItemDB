@@ -8044,38 +8044,34 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic 2 Socket Grand Charm<br>
+Any 2 Socket Grand Charm<br>
 Socketed Ring<br>
 Socketed Amulet<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Magic Grand Charm (rerolled)<br>
+The Same Grand Charm<br>
 <font color="4850B8">
-Random Affix(es)<br>
 Gem Socket (3)<br>
-(ilvl = 99)<br>
+(ilvl = previous ilvl)<br>
 </font>
 
 
 </font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic 1 Socket Grand Charm<br>
+Any 1 Socket Grand Charm<br>
 Socketed Ring<br>
 Socketed Amulet<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Magic Grand Charm (rerolled)<br>
+The Same Grand Charm<br>
 <font color="4850B8">
-Random Affix(es)<br>
 Gem Socket (2)<br>
-(ilvl = 99)<br>
-</font>
-
-
+(ilvl = previous ilvl)<br>
 </font></td></tr>
+
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
 Magic No Socket Grand Charm<br>
@@ -8084,11 +8080,10 @@ Socketed Amulet<br>
 </font></td>
 <td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
-Magic Grand Charm (rerolled)<br>
+The Same Grand Charm<br>
 <font color="4850B8">
-Random Affix(es)<br>
 Gem Socket (1)<br>
-(ilvl = 99)<br>
+(ilvl = previous ilvl)<br>
 </font>
 </font></td></tr>
 <tr><td align="center" bgcolor="#181818">
@@ -8104,7 +8099,7 @@ Magic Large Charm (rerolled)<br>
 <font color="4850B8">
 Random Affix(es)<br>
 Gem Socket (2)<br>
-(ilvl = 99)<br>
+(ilvl = previous ilvl)<br>
 </font>
 
 
@@ -8122,7 +8117,7 @@ Magic Large Charm (rerolled)<br>
 <font color="4850B8">
 Random Affix(es)<br>
 Gem Socket (1)<br>
-(ilvl = 99)<br>
+(ilvl = previous ilvl)<br>
 </font>
 
 
@@ -8139,7 +8134,7 @@ Socketed Amulet<br>
 The Same Small Charm<br>
 <font color="4850B8">
 Gem Socket (1)<br>
-(ilvl = previous ilvl)<br>
+(ilvl = previous ilvl)
 </font>
 
 </font></td></tr>
