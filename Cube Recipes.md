@@ -7821,7 +7821,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Weapon<br>
+Any Weapon<br>
 Blackmoor<br>
 Holy Symbol<br>
 Cookbook<br>
@@ -7844,7 +7844,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Weapon<br>
+Any Weapon<br>
 Forging Hammer<br>
 Tyranium Ore<br>
 Cookbook<br>
@@ -7868,7 +7868,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Weapon<br>
+Any Weapon<br>
 Forging Hammer<br>
 Crushed Gem<br>
 Cookbook<br>
@@ -7892,7 +7892,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Weapon<br>
+Any Weapon<br>
 Forging Hammer<br>
 Unique Small Charm<br>
 Cookbook<br>
@@ -7920,7 +7920,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Gloves<br>
+Any Gloves<br>
 Forging Hammer<br>
 Tyranium Ore<br>
 Cookbook<br>
@@ -7944,7 +7944,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Gloves<br>
+Any Gloves<br>
 Forging Hammer<br>
 Crushed Gem<br>
 Cookbook<br>
@@ -7968,7 +7968,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Gloves<br>
+Any Gloves<br>
 Forging Hammer<br>
 Unique Small Charm<br>
 Cookbook<br>
@@ -7996,7 +7996,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Weapon<br>
+Any Weapon<br>
 Forging Hammer<br>
 Dragon Stone<br>
 Cookbook<br>
@@ -8020,7 +8020,7 @@ Input</font></td>
 Output</font></td></tr>
 <tr><td align="center" bgcolor="#181818">
 <font face="arial,helvetica" size="-1" color="#181818">
-Magic Gloves<br>
+Any Gloves<br>
 Forging Hammer<br>
 Blackmoor<br>
 Cookbook<br>
