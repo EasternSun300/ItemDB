@@ -2,7 +2,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>Eastern Sun 3.00 Unique Armor</title>
+Eastern Sun 3.00 Unique Armor
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
 <center>
@@ -10,39 +10,7 @@
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
 by tsuru (tsurumurasaki)</font>
-<a name="rin">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-[Unique Armor]
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
-<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Rings</b></font></td></tr><tr>
@@ -274,29 +242,7 @@ Lvl 2 Protection From Evil Aura When Equipped<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="amu">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Amulets</b></font></td></tr><tr>
@@ -542,29 +488,7 @@ Damage Reduced By 6<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="cha">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Charms</b></font></td></tr><tr>
@@ -657,29 +581,7 @@ Replenish Life -15<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="jew">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Jewels</b></font></td></tr><tr>
@@ -823,29 +725,7 @@ All Resistances +0-15<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="hel">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Helms</b></font></td></tr><tr>
@@ -1333,29 +1213,7 @@ Adds 50-75 Magic Damage<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="cir">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Circlets</b></font></td></tr><tr>
@@ -1433,29 +1291,7 @@ Reduces All Vendor Prices 5-25%<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="arm">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Armor</b></font></td></tr><tr>
@@ -2327,29 +2163,7 @@ All Resistances +25-50<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="rob">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Robes</b></font></td></tr><tr>
@@ -2466,29 +2280,7 @@ All Resistances +20-30<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="shi">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Shields</b></font></td></tr><tr>
@@ -2944,29 +2736,7 @@ Damage Reduced By 5-15<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="glo">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Gloves</b></font></td></tr><tr>
@@ -3245,29 +3015,7 @@ Knockback<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="boo">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Boots</b></font></td></tr><tr>
@@ -3567,29 +3315,7 @@ Hit Causes Monster Flee 32-96%<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="bel">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Belts</b></font></td></tr><tr>
@@ -3891,29 +3617,7 @@ All Resistances +10-30<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="bar">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Barbarian Helms</b></font></td></tr><tr>
@@ -4162,29 +3866,7 @@ Damage Reduced By 5-15<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="dru">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Druid Pelts</b></font></td></tr><tr>
@@ -4442,29 +4124,7 @@ All Resistances +10-20<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="nec">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Necromancer Shrunkenheads</b></font></td></tr><tr>
@@ -4737,29 +4397,7 @@ Lvl 1 Energy Shield* (40 Charges)<br>
 </font></font></td>
 </tr>
 </tbody></table>
-</a><a name="pal">
-<table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-</font></td></tr>
-</tbody></table>
+
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" colspan="13"><font face="arial,helvetica">
 <b>Paladin Shields</b></font></td></tr><tr>
@@ -5009,37 +4647,4 @@ Cold Absorb 1-20%<br>
 Lightning Absorb 1-20%<br>
 </font></font></td>
 </tr>
-</tbody></table><table border="0" cellpadding="5">
-<tbody><tr><td align="center" bgcolor="#000000">
-<font face="arial,helvetica" size="-2">
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rin">[Rings]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#amu">[Amulets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cha">[Charms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#jew">[Jewels]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#hel">[Helms]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#arm">[Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#rob">[Robes]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#shi">[Shields]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#glo">[Gloves]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bel">[Belts]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#boo">[Boots]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#cir">[Circlets]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#bar">[Bar]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#dru">[Dru]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#nec">[Nec]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uarmo#pal">[Pal]</a>
-<br>
-<a href="https://www.EasternSun300.github.io/ItemDB/">[Top]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3armo">[Base Armor]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3weap">[Base Weapons]</a>
-[Unique Armor]
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3uweap">[Unique Weapons]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3set">[Set Items]</a><a>
-</a><a href="https://www.EasternSun300.github.io/ItemDB/Items/es3runew">[Runewords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3gemw">[Gemwords]</a>
-<a href="https://www.EasternSun300.github.io/ItemDB/Items/es3cube">[Cube Recipes]</a>
-</font></td></tr>
-</tbody></table>
-</a></center><a name="pal">
-</a></body></html>
+</tbody></table></body></html>
