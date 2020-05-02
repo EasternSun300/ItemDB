@@ -3,7 +3,7 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <meta http-equiv="Content-Style-Type" content="text/css">
-<title>Eastern Sun 3.00 Database</title>
+Eastern Sun 3.00 Database
 </head>
 <body bgcolor="#000000" text="#AFAFAF" link="#928A70" vlink="#706850">
 <center>
@@ -14,14 +14,7 @@ by tsuru (tsurumurasaki)</font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" width="840">
 <font face="arial,helvetica" size="+1"><b>Eastern Sun 3.00 Database (Old)</b></font></td></tr>
-<tr><td align="center" bgcolor="#181818">
-<table border="0" width="700">
-<tbody><tr>
-<td align="center" bgcolor="#181818">
-<font face="arial,helvetica" size="3">
-<a href="https://EasternSun300.github.io/EasternSun3.zip">[Download .zip version]</a><br>
-    <a href="https://EasternSun300.github.io/D2SE-EasternSun300.zip">[Download D2SE version]</a><br></font>
-</td><td align="left" bgcolor="#181818">
+<td align="left" bgcolor="#181818">
 <font face="arial,helvetica" size="-1">
 <blockquote><br>
   
