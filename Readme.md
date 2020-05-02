@@ -11,7 +11,7 @@ Eastern Sun 3.00 Database
 <font face="arial,helvetica">the original 3.00 / reiyo_oki and tsuru's patch B &amp; C series<br></font>
 <font face="arial,helvetica" size="-2">
 by tsuru (tsurumurasaki)<br>
- Click on each .md above to see the items
+ CLICK ON EACH .MD ABOVE TO SEE THE ITEMS.
 </font>
 <table border="0" cellpadding="5">
 <tbody><tr><td align="center" bgcolor="#204020" width="840">
